@@ -15,6 +15,10 @@ Website is used to to help the business find the correct customers, along with a
 
 http://127.0.0.1:5500/index.html#social-media-marketing
 
+![](assets/images/digital-marketing-meeting.jpg)
+
 ## License
+
+N/A
 
 ## 2019 Horiseon Social Solution Services, Inc.
