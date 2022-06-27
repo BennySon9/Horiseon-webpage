@@ -1,13 +1,15 @@
+/* applies to everything on the page */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* applies to the body section */
 body {
   background-color: #d9dcd6;
 }
-
+/* aplies styling to the header section */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -51,6 +53,7 @@ p {
   font-size: 16px;
 }
 
+/* applies styling to the navigation bar */
 .navbar h2 {
   margin-bottom: 20px;
   font-size: 36px;
@@ -84,11 +87,13 @@ p {
   color: #ffffff;
 }
 
+/* styling for left sidebar */
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/* styling for right sidebar */
 .float-right {
   float: right;
   margin-left: 25px;
@@ -124,6 +129,7 @@ p {
   margin-bottom: 32px;
 }
 
+/* add styling to the footer section */
 .footer {
   padding: 30px;
   clear: both;

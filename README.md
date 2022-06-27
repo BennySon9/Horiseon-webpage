@@ -13,7 +13,7 @@ Website is used to to help the business find the correct customers, along with a
 
 ## Website
 
-http://127.0.0.1:5500/index.html#social-media-marketing
+https://bennyson9.github.io/Horiseon-webpage/
 
 ![](assets/images/digital-marketing-meeting.jpg)
 
